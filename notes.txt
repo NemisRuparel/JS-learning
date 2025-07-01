@@ -1,0 +1,27 @@
+ch.1 : Variables and Declaration 
+
+Variables
+Types ==>
+var , let , const
+
+Description ==> 
+var : old method to declare Variables
+let : can change value in future 
+const : constant can't change once created 
+
+Declaration ==>
+
+a=10; //basic but worst method to declate
+
+var a = 10;
+var a = 20; //not gives error
+
+let a = 10; 
+let a = 20; //error : 'a' has already been declared
+a=20//can be change like this (after intialization) 
+
+const a;//error : Missing initializer in const declaration
+const a=10; 
+const a=20; //error : Assignment to constant variable.
+
+
