@@ -35,7 +35,7 @@ You can:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/js-learning.git
+   git clone https://github.com/NemisRuparel/js-learning.git
    ```
 
 2. Open the folders and run `.html` or `.js` files directly in your browser or code editor.
